@@ -1,0 +1,6 @@
+{
+  "name": "Safety Incident Reporter",
+  "description": "A personal-safety incident reporting application with moderation capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
